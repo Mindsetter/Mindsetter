@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m learning Flutter, JavaScript, PHP and Python<br>🥅 I'm exploring web3 and Blockchain Development.<br>👯 I’m looking to collaborate on web3 projects<br>💬 How to reach me: francis@livewallet.io<br>⚡ A Reader Today, A Leader Tomorrow
+🔭 I’m learning HTML, CSS, JavaScript & Flutter(Dart)>🥅 I'm exploring web3 and Blockchain Development.<br>👯 I’m looking to collaborate on web3 projects<br>💬 How to reach me: francis@livewallet.io<br>⚡ A Reader Today, A Leader Tomorrow
 
 
 ## 🌐 Socials:
